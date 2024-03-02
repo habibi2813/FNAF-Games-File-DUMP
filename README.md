@@ -2,6 +2,8 @@
 
 ### This repo contains links for dumps of various fnaf games and fnaf fangames that were made on Clickteam Fusion 2.5+, All rights reserved are to creator of these games.
 
+I may upload file dumps, directly on this GitHub repo soon but now its easier for me to upload it on 3rd party hosting services.
+
 Enjoy :)
 
 
